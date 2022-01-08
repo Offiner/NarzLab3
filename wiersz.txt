@@ -1,5 +1,6 @@
 Marysia była lekko w szoku, dumna w pełni
 <<<<<<< HEAD
+<<<<<<< HEAD
 Całkiem zdrowa, długoterminowa i niegłupia
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -24,3 +25,6 @@ Se płynę delfinem, z delfinem w Afryce
 =======
 Całkiem zdrowa, długoterminowa i niegłupia
 >>>>>>> parent of 8a11d6c (dodanie przemek)
+=======
+Całkiem zdrowa, długoterminowa i niegłupia
+>>>>>>> parent of c00c3cb (dodany drugi wiersz)
