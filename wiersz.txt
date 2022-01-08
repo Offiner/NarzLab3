@@ -13,5 +13,10 @@ Ile cię trzeba cenić, ten tylko się dowie, kto cię stracił.
 Wilk na mikrofonie w głowie się nie mieści
 Tępić leszczy z lamusami się nie pieścić
 >>>>>>> Bartek
+<<<<<<< HEAD
 Dziś piękność twą w całej ozdobie
 Widzę i opisuję, bo tęsknię po tobie.
+=======
+Mnie lubią w Galicji, a ciebie w policji
+Se płynę delfinem, z delfinem w Afryce
+>>>>>>> 675b2bf (kolejny commit)
