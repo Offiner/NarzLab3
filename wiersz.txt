@@ -1,4 +1,5 @@
 Marysia była lekko w szoku, dumna w pełni
+<<<<<<< HEAD
 Całkiem zdrowa, długoterminowa i niegłupia
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -20,3 +21,6 @@ Widzę i opisuję, bo tęsknię po tobie.
 Mnie lubią w Galicji, a ciebie w policji
 Se płynę delfinem, z delfinem w Afryce
 >>>>>>> 675b2bf (kolejny commit)
+=======
+Całkiem zdrowa, długoterminowa i niegłupia
+>>>>>>> parent of 8a11d6c (dodanie przemek)
