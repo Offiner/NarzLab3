@@ -14,9 +14,14 @@ Wilk na mikrofonie w głowie się nie mieści
 Tępić leszczy z lamusami się nie pieścić
 >>>>>>> Bartek
 <<<<<<< HEAD
+<<<<<<< HEAD
 Mnie lubią w Galicji, a ciebie w policji
 Se płynę delfinem, z delfinem w Afryce
 =======
 Dziś piękność twą w całej ozdobie
 Widzę i opisuję, bo tęsknię po tobie.
 >>>>>>> przemek2
+=======
+Już ledwo sapie, już ledwo zipie,
+A jeszcze palacz węgiel w nią sypie.
+>>>>>>> Bartek2
