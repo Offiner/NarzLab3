@@ -1,0 +1,37 @@
+[33mcommit 34a80f788792be74ce5d8e2844ca0d39f52bdbfc[m[33m ([m[1;36mHEAD -> [m[1;32mrelease/pierwszawersja-wiersza[m[33m, [m[1;31morigin/release/pierwszawersja-wiersza[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Merge: ab8d362 4c29b72
+Author: Your Name <sansong@o2.pl>
+Date:   Sat Jan 8 12:30:18 2022 +0100
+
+    edit
+
+[33mcommit ab8d3621d2a39363d8141764637582ca229c338c[m
+Merge: c00c3cb 8a11d6c
+Author: przemekmaj <majorek2509@gmail.com>
+Date:   Sat Jan 8 11:26:23 2022 +0000
+
+    przemek
+
+[33mcommit 8a11d6c159ef86cb9a5fec49d7b56cadf5f8d8a5[m[33m ([m[1;31morigin/przemek[m[33m)[m
+Author: przemekmaj <majorek2509@gmail.com>
+Date:   Sat Jan 8 11:18:37 2022 +0000
+
+    dodanie przemek
+
+[33mcommit 4c29b722c5d8687a4ed4c5e15ee6fe36dee097e0[m[33m ([m[1;31morigin/Bartek[m[33m)[m
+Author: Your Name <sansong@o2.pl>
+Date:   Sat Jan 8 12:18:05 2022 +0100
+
+     Pierwszy
+
+[33mcommit c00c3cbac480425f571911d5402d9f2a59ed6804[m[33m ([m[1;31morigin/Samuel[m[33m, [m[1;32mSamuel[m[33m)[m
+Author: Your Name <offiner@gmail.com>
+Date:   Sat Jan 8 12:09:21 2022 +0100
+
+    dodany drugi wiersz
+
+[33mcommit 8b54f6fbc93b24cd1fbd802817b73fff9738f065[m
+Author: Your Name <sansong@o2.pl>
+Date:   Sat Jan 8 12:01:17 2022 +0100
+
+     pierwszy
