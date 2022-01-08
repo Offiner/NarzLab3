@@ -1,6 +1,7 @@
 Marysia była lekko w szoku, dumna w pełni
 Całkiem zdrowa, długoterminowa i niegłupia
 <<<<<<< HEAD
+<<<<<<< HEAD
 Ty cpiepłe kuflowe.
 Ja lepsze kraftowe.
 =======
@@ -8,3 +9,7 @@ Ja lepsze kraftowe.
 Litwo, Ojczyzno moja! ty jesteś jak zdrowie;
 Ile cię trzeba cenić, ten tylko się dowie, kto cię stracił.
 >>>>>>> przemek
+=======
+Wilk na mikrofonie w głowie się nie mieści
+Tępić leszczy z lamusami się nie pieścić
+>>>>>>> Bartek
